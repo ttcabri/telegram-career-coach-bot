@@ -136,4 +136,4 @@ python main.py
 
 ---
 
-Built by Andrey · [Upwork Profile](https://www.upwork.com)
+Built by [Andrii Kovalov](https://www.upwork.com/freelancers/~01b338c17687548709) · Telegram Bot Developer
